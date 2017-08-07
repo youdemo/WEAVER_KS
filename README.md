@@ -1,4 +1,4 @@
-# WEAVER_KS
+# Weaver-KS-Code-Share for teamwork
 
 JS, HTML, CSS, GIT规范
 
