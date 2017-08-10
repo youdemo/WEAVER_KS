@@ -42,7 +42,7 @@ $(function(){
 	String url_3 = "";
     String url_4 = "";
 
-	url_1 = "/gvo/shaw/jsp/gvo_offline.jsp";
+	url_1 = "gvo_offline.jsp";
 	//url_2 = "/gvo/shaw/jsp/gvo_cptList_2.jsp";
 
 	
